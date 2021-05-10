@@ -6,14 +6,20 @@ body{
     color: white;
 
 }
-p{
+p {
     color: white;
 }
 
-h1 {
-    color:white;
+h1, h2, h3{
+    font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
+    background-color: navy;
+    color: white;
+[COLOR="Red"]font-style: italic;[/COLOR]
     text-decoration: underline;
 }
+
+
+
 .hero-image{
     background-image: linear-gradient(
             rgba(0,0,0,0.5),
